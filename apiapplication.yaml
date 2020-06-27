@@ -3,5 +3,5 @@ Logging:
     Default: Information
     Microsoft: Warning
     Microsoft.Hosting.Lifetime: Information
-ShowAggregatedUserInfo: true
+ShowAggregatedUserInfo: false
 AllowedHosts: "*"
